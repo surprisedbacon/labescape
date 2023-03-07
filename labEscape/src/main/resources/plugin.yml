@@ -1,0 +1,8 @@
+name: labEscape
+version: '${project.version}'
+main: org.xyrise.labescape.LabEscape
+api-version: 1.19
+commands:
+  spawntube:
+    description: Spawn a lab escape tube.
+    usage: /spawntube
